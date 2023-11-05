@@ -1,0 +1,6 @@
+module Pods_OpenAIDemo {
+  umbrella header "Pods-OpenAIDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}
